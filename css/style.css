@@ -1,0 +1,90 @@
+.texts{
+    display: inline-block;
+    position:relative;
+    top: 20px;
+}
+li{
+    padding: 5px;
+}
+.container img{
+    width: 70px;
+    height: 40px;
+}
+.p2{
+    line-height: 0px;
+    color: thistle;
+    font-size:x-small;
+    position: relative;
+    top:-10px;
+}
+body{
+    background-color: #1E202B;
+    overflow-x: hidden;
+}
+.buttonnav {
+    border-radius: 30px;
+    border-color: #009AD8;
+    color: #009AD8;
+    padding:5px 30px 5px 30px;
+    background-color: transparent;
+}
+.searchbar{
+    top:70px
+}
+.buttonsearch{
+    border-radius: 30px;
+   
+    background-color: #1E202B!important;
+    border-color: #1E202B;
+}
+.btnsearch{
+    border-radius: 20px;
+    padding:10px 40px 10px 40px;
+    top: 5px;
+    right: 10px;
+}
+.divrow{
+    bottom: 150px;
+    
+}
+.form-control::placeholder{
+    color:#757575;
+}
+.btnsearch2{
+    border-radius: 25px;
+    padding:10px 20px 10px 20px;
+    top: 53px;
+    right: 53px;
+}
+.lp{
+    color:#757575;
+}
+.last{
+    background-color: #262936;
+}
+
+.contacts{
+    padding: 60px 90px;
+}
+.temp-card1,.temp-card2{
+    color: white;
+    border-radius: 10px;
+  }
+.temp-card1{
+background-color:#323544;
+  }
+.temp-card2{
+    background-color: #262936;
+      }
+  
+  .col{
+ 
+    padding: 30px 40px;
+  }
+  #today-icon{
+    width: 100px;
+    height: 100px;
+  }
+  #today-degree{
+    font-size: 100px;
+  }
